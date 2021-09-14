@@ -13,4 +13,4 @@ console.log(document.querySelectorAll('nav-bark'));
 let pic = document.getElementById('dog-picture');
 
 //
-console.log(document.querySelector('.class-week'));
+console.log(document.querySelector('.class-week').textContent);
